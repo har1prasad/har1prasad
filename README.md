@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=har1prasad&label=Profile%20views&color=0e75b6&style=flat" alt="har1prasad" />
 </p>
 
----
-
 ### 🌱 **About Me**
 
 - 🔭 Currently working on **meaningful projects, not noise**  
@@ -16,8 +14,6 @@
 - 👯 Looking to collaborate on **AI projects that sharpen real skills**  
 - 🤝 Seeking **mentorship that strengthens my engineering craft**  
 - 📫 Reach me at **hariprasad5241@gmail.com**
-
----
 
 ### 🌐 **Connect with Me**
 <p align="left">
@@ -27,8 +23,6 @@
   <a href="https://hackerrank.com/har1prasad" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40"/></a>
   <a href="https://leetcode.com/har1prasad" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
 </p>
-
----
 
 ### 🛠️ **Languages & Tools**
 <p align="left">
@@ -48,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=c" width="45"/>
 </p>
 
----
 
 ### ✨ **Quietly building. Slowly improving. Always learning.**
 

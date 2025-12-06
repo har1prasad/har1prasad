@@ -3,10 +3,6 @@
 # Hi 👋, I'm Hariprasad AP  
 ### **Quietly Improving**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=har1prasad&label=Profile%20views&color=0e75b6&style=flat" alt="har1prasad" />
-</p>
-
 ### 🌱 **About Me**
 
 - 🔭 Currently working on **meaningful projects, not noise**  
